@@ -45,3 +45,17 @@ Follow along to gain hands-on experience with PyTorch and set yourself up for su
 
 * [Tensor Indexing](#Tensor-Indexing)
 * [Tensor Reshaping](#Tensor-Reshaping)
+
+  ### Contributing to the Project
+  To contribute to this repository, please follow these steps:
+
+* **Fork:**  Begin by forking this repository to your GitHub account.
+* **Develop:**  Implement your modifications or new features.
+* **Branch:**  Create a new branch for your work (e.g., git checkout -b your-new-feature).
+* **Pull Request:**  Submit a pull request detailing your changes and their purpose.
+  
+
+
+
+
+
