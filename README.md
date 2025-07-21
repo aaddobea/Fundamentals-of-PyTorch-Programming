@@ -1,7 +1,9 @@
 # PyTorch-Fundamentals
 ## Synopsis
 This notebook is for anyone looking who is looking to start leaning with pyTorch and was created with Google colab. To start with, change the runtime to T4GPU. 
-![Tensor Hierarchy](https://github.com/aaddobea/PyTorch-Fundamentals/blob/main/tensorflow2.webp "Visualizing Scalar, Vector, Matrix, and Tensor")
+<!--![Tensor Hierarchy](https://github.com/aaddobea/PyTorch-Fundamentals/blob/main/tensorflow2.webp "Visualizing Scalar, Vector, Matrix, and Tensor")-->
+<!--<img src="https://github.com/aaddobea/PyTorch-Fundamentals/blob/main/tensorflow2.webp?raw=true" width="600" alt="Visualizing Scalar, Vector, Matrix, and Tensor">-->
+<img src="https://github.com/aaddobea/PyTorch-Fundamentals/blob/main/tensorflow2.webp?raw=true" width="75%" alt="Visualizing Scalar, Vector, Matrix, and Tensor">
 
 ## Dependencies required for installation
 * !pip install numpy
